@@ -1,16 +1,16 @@
-# Software Suggest Station
+# Software Suggest Platform
 
-A nodejs project to demonstrate basic CRUD functionality.
--------------
+A web application in "MERN Stack" where user can find an outstanding application/software in specific category by injecting keyword.
 
 -----------------------
 Basic required packages to be installed in system before starting this project
 
-- Node js >= v15.0.0
-- MongoDB >= v4.0.0
+- Node js
+- React js
+- MongoDB
 
 
-To start the project
+To start the project.....
 ---------------
 
 ```
@@ -27,17 +27,16 @@ npm run seed
 npm start
 ```
 
-after starting web server, you can login of either of this account based on
-what functionalities you need to check
+After starting web server, you can login of either of this account based on what functionalities you want to enjoy !
 
-user account
+User account
 ------------
-- email: jainamdamanwala@gmail.com
+- Email: admin123@gmail.com
 
-- password: jainam@123
+- Password: Admin@123
 
 vendor user account
 -------------
-- email: shubhamjiyani@gmail.com
+- Email: Vendor123@gmail.com
 
-- password:shubham@123
+- Password:Vendor@123
