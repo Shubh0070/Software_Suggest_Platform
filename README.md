@@ -1,6 +1,7 @@
 # Software Suggest Platform
 
 A web application in "MERN Stack" where user can find an outstanding application/software in specific category by injecting keyword.
+paspport.js as well as bcrypt.js for authentication.
 
 -----------------------
 Basic required packages to be installed in system before starting this project
