@@ -35,7 +35,7 @@ User account
 
 - Password: Admin@123
 
-vendor user account
+Vendor account
 -------------
 - Email: Vendor123@gmail.com
 
